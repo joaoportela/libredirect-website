@@ -2,7 +2,6 @@
 # 2. Copy the terminal output and paste it in the correct place in index.html
 # 3. Format index.html
 
-import json
 import requests
 
 response = requests.get(
